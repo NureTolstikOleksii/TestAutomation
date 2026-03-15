@@ -1,0 +1,16 @@
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\bin\Debug\net8.0-windows\ip_calc.exe
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\bin\Debug\net8.0-windows\ip_calc.deps.json
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\bin\Debug\net8.0-windows\ip_calc.runtimeconfig.json
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\bin\Debug\net8.0-windows\ip_calc.dll
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\bin\Debug\net8.0-windows\ip_calc.pdb
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\IP_calc.MainForm.resources
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.csproj.GenerateResource.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.AssemblyInfoInputs.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.AssemblyInfo.cs
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.csproj.CoreCompileInputs.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.dll
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\refint\ip_calc.dll
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.pdb
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ip_calc.genruntimeconfig.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\ip_calc\obj\Debug\net8.0-windows\ref\ip_calc.dll

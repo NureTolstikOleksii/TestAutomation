@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_calc.Tests", "IP_calc.Tests\IP_calc.Tests.csproj", "{4EA079CE-0DC9-452A-B672-3EC0B4A8E52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip_calc", "ip_calc\ip_calc.csproj", "{45E949FD-3D7F-4964-BDE8-9FEBCBB016FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA079CE-0DC9-452A-B672-3EC0B4A8E52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA079CE-0DC9-452A-B672-3EC0B4A8E52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA079CE-0DC9-452A-B672-3EC0B4A8E52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA079CE-0DC9-452A-B672-3EC0B4A8E52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E949FD-3D7F-4964-BDE8-9FEBCBB016FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E949FD-3D7F-4964-BDE8-9FEBCBB016FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E949FD-3D7F-4964-BDE8-9FEBCBB016FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E949FD-3D7F-4964-BDE8-9FEBCBB016FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B3CEE1-08F9-4FE7-A2A2-B0672CA8E2F0}
+	EndGlobalSection
+EndGlobal
