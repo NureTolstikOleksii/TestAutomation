@@ -1,0 +1,21 @@
+C:\Users\USER\Desktop\IP_calc\IP_calc\bin\Debug\IP_calc.exe.config
+C:\Users\USER\Desktop\IP_calc\IP_calc\bin\Debug\IP_calc.exe
+C:\Users\USER\Desktop\IP_calc\IP_calc\bin\Debug\IP_calc.pdb
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.exe
+C:\Users\USER\Desktop\IP_calc\IP_calc\obj\Debug\IP_calc.pdb
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\bin\Debug\IP_calc.exe.config
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\bin\Debug\IP_calc.exe
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\bin\Debug\IP_calc.pdb
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.AssemblyReference.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.GenerateResource.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.csproj.CoreCompileInputs.cache
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.exe
+C:\Users\alext\OneDrive\Рабочий стол\IP_calc_ТолстікО_ПЗПІ-22-9\IP_calc\IP_calc\obj\Debug\IP_calc.pdb
